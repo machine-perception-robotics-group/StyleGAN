@@ -12,3 +12,6 @@ CelebA-HQ, FFHQデータセットをダウンロードして，StyleGAN_exe.ipyn
 
 ## 注意
 現時点で開発・メンテナンスを行っていないため，Issue等は受け付けておりません．ご了承ください．
+
+## 著者らのオリジナルのプログラム
+* https://github.com/NVlabs/stylegan
